@@ -1,0 +1,5 @@
+medscape.com
+   *.medscape.com
+   www.medscape.com
+   img.medscape.com
+   cdn.medscape.com
